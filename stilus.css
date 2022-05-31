@@ -1,0 +1,27 @@
+.tartalom{
+    border: 1px solid black;
+    background-color: white;
+}
+header{
+    padding: 2px;
+}
+td{
+    padding: 10px;
+}
+th{
+    padding: 25px;
+    padding-bottom: 1px;
+}
+body{
+    background-color: rgb(200, 255, 200);
+}
+footer{
+    padding: 2px;
+}
+.recepthely{
+    border: 1px solid black;
+    background-color: white;
+}
+img{
+    max-width: 100%;
+}

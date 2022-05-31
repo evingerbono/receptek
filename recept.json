@@ -1,0 +1,27 @@
+{
+    "receptek":[
+        {
+            "Nev":"Articsóka leves",
+            "Elkeszitesiido":"10 perc",
+            "Kep":"./kepek/articsoka.jpg",
+            "Leiras":"Így kell elkészíteni",
+            "Hozzavalok":"Articsóka, Valmai, Valami,Valami" 
+        },
+        {
+            
+            "Nev":"Pörkölt",
+            "Elkeszitesi":"35 perc",
+            "Kep":"./kepek/porkolt.jpg",
+            "Leiras":"Így kell elkészíteni",
+            "Hozzavalok":"Hús, Hagyma, Zsír, Paradicsom, Só, Bors, Pirospaprika, Vörösbor" 
+        },
+        {
+            
+            "Nev":"Somlói Galuska",
+            "Elkeszitesi":"60 perc",
+            "Kep":"./kepek/somloi.jpg",
+            "Leiras":"Így kell elkészíten",
+            "Hozzavalok":"Valmi, Vlami, Cukor, Valmi, Valami" 
+        }
+    ]
+}
